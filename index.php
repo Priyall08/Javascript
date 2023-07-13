@@ -96,7 +96,7 @@
     </div>
     <div class="form-floating  mb-3">
       <input type="email" class="form-control" id="floatingEmail" placeholder="name@example.com" name="email">
-      <label for="floatingEmail">Email address</label>
+      <label for="floatingEmail">Email add</label>
     </div>
     <div class="form-floating  mb-3">
       <input type="text" class="form-control" id="floatingPhone" placeholder="Phone" name="Phone">
