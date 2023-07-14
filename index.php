@@ -100,7 +100,7 @@
     </div>
     <div class="form-floating  mb-3">
       <input type="text" class="form-control" id="floatingPhone" placeholder="Phone" name="Phone">
-      <label for="floatingPhone">Phone</label>
+      <label for="floatingPhone">Mobile No</label>
     </div>
     <div class="form-floating">
       <input type="password" class="form-control" id="floatingPassword" placeholder="Password" name="password">
